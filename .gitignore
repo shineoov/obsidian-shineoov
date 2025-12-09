@@ -1,0 +1,22 @@
+# Obsidian - 개인 설정 (ignore)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# Obsidian - 캐시 (ignore)
+.obsidian/cache
+.obsidian/workspace
+.obsidian/*.tmp
+
+# Obsidian - 공유할 설정 (commit)
+# .obsidian/app.json
+# .obsidian/core-plugins.json
+# .obsidian/community-plugins.json
+# .obsidian/plugins/
+
+# 임시 파일
+.trash/
+*.tmp
+
